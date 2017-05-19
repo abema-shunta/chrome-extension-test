@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "XX-concier investigator",
+  "version": "0.0.1",
+
+  "description": "A plain text description",
+  "icons": {
+    "16": "16.png",
+    "48": "48.png",
+    "128": "128.png"
+  },
+  "browser_action": {
+    "default_title": "XX-concier investigator",      // optional; shown in tooltip
+    "default_popup": "index.html"        // optional
+  }
+}
